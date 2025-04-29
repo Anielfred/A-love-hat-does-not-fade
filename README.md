@@ -108,16 +108,16 @@
   <div class="chapter-links">
     <h2>Read Our Story</h2>
     <ul>
-      <li><a href="chapter1.html">Chapter 1: The Beginning</a></li>
-      <li><a href="chapter2.html">Chapter 2: The Challenges</a></li>
-      <li><a href="chapter3.html">Chapter 3: My Promise</a></li>
-      <li><a href="chapter4.html">Chapter 4: Grateful Heart</a></li>
-      <li><a href="chapter5.html">Chapter 5: Always and Forever</a></li>
-      <li><a href="chapter6.html">Chapter 6: Our Shared Dreams</a></li>
-      <li><a href="chapter7.html">Chapter 7: The Little Things</a></li>
-      <li><a href="chapter8.html">Chapter 8: Through My Eyes</a></li>
-      <li><a href="chapter9.html">Chapter 9: What I’ve Learned</a></li>
-      <li><a href="chapter10.html">Chapter 10: A Love That Lasts</a></li>
+      <li><a href="chapter1.md">Chapter 1: The Beginning</a></li>
+      <li><a href="chapter2.md">Chapter 2: The Challenges</a></li>
+      <li><a href="chapter3.md">Chapter 3: My Promise</a></li>
+      <li><a href="chapter4.md">Chapter 4: Grateful Heart</a></li>
+      <li><a href="chapter5.md">Chapter 5: Always and Forever</a></li>
+      <li><a href="chapter6.md">Chapter 6: Our Shared Dreams</a></li>
+      <li><a href="chapter7.md">Chapter 7: The Little Things</a></li>
+      <li><a href="chapter8.md">Chapter 8: Through My Eyes</a></li>
+      <li><a href="chapter9.md">Chapter 9: What I’ve Learned</a></li>
+      <li><a href="chapter10.md">Chapter 10: A Love That Lasts</a></li>
     </ul>
   </div>
 
