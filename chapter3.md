@@ -95,7 +95,7 @@
   </div>
 
   <div class="back-link">
-    <a href="index.html">&larr; Back to Chapters</a>
+    <a href="README.md">&larr; Back to Chapters</a>
   </div>
 </body>
 </html>
